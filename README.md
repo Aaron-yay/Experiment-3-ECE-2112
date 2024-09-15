@@ -62,4 +62,4 @@ Finally, problem 'd' is similar to problem 'c' but now asks for more than 1 spec
 Which outputs the 'cyl' and 'gear' of these 3 cars. With all the problems solved, I did the same process as in problem 1 to save problem 2 in a .py format
 
 ##### Note:
-Notebook saved just for reference*
+Notebook saved as well :)
